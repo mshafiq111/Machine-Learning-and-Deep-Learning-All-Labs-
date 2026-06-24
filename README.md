@@ -254,12 +254,8 @@ Upon successful completion of these laboratory exercises, students will be able 
 
 ## Getting Started
 
-### Clone the Repository
 
-```bash
-git clone https://github.com/prince4775/8th_semester_ML_and_DL_Lab.git
-cd 8th_semester_ML_and_DL_Lab
-```
+
 
 ### Install Required Dependencies
 
